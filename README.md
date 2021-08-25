@@ -1,4 +1,4 @@
-# Flutter Login Page UI
+# Flutter Dating App Auth UI
 
 ## [Watch it on YouTube](https://youtu.be/aXxMek9kXAA)
 
